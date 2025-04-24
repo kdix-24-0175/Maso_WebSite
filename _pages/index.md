@@ -1,5 +1,5 @@
 ---
-title: "自己紹介とかその他諸々話す"
+title: "自己紹介です！"
 author: マソく
 permalink: /
 ---
