@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "自己紹介とかその他諸々"
 author: default
 permalink: /
 ---
