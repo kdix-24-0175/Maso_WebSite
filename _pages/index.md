@@ -11,7 +11,7 @@ permalink: /
 
 ---
 
-![image](/Maso_WebSite/assets/images/Introduce.png)
+
 
 # マソく　 と　　もうします！
 ## 奇跡起こる予感　
