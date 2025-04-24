@@ -12,7 +12,7 @@ permalink: /
 ---
 
 
-
+![image](/Maso_WebSite/assets/images/スクリーンショット 2025-04-24 19.17.21.png)
 # マソく　自己紹介
 ## 奇跡起こる予感
 ### 好きなゲーム
